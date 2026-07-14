@@ -1,0 +1,10 @@
+entity_type,gate_id,crowd_density_pct,entries_last_5min,stand_name,avg_wait_time_min,queue_length,status,alert_level,active_incidents,notes
+gate,Gate A,38,420,,,,,,,
+gate,Gate B,72,510,,,,,,,
+gate,Gate C,94,180,,,,,,,
+gate,Gate D,21,260,,,,,,,
+concession,,,,Main Concourse Grill,12,22,Open,,,
+concession,,,,Craft Beer & Snacks,31 mins,58,High Demand,,,
+concession,,,,International Food Court,7,11,Open,,,
+concession,,,,Family Fan Zone Kiosk,4,6,Open,,,
+security,,,,,,,,Orange,2,Congestion building near Gate C

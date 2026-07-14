@@ -1,0 +1,13 @@
+[theme]
+# "Floodlit" — a broadcast-grade matchday palette. These base tokens let
+# Streamlit's own widgets (selectbox, radio, chat input) harmonise with the
+# custom design system injected in ui/theme.py.
+base = "dark"
+primaryColor = "#22D3EE"
+backgroundColor = "#0A0F16"
+secondaryBackgroundColor = "#121A28"
+textColor = "#E8EEF6"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"

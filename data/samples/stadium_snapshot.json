@@ -1,0 +1,22 @@
+{
+  "stadium_id": "camp_nou",
+  "stadium_name": "Spotify Camp Nou",
+  "match_status": "live",
+  "timestamp": "2026-07-11T20:15:00+00:00",
+  "gates": [
+    { "gate_id": "North", "crowd_density_pct": 91, "entries_last_5min": 150 },
+    { "gate_id": "South", "crowd_density_pct": 44, "entries_last_5min": 380 },
+    { "gate_id": "East", "crowd_density_pct": 68, "entries_last_5min": 410 },
+    { "gate_id": "West", "crowd_density_pct": 25, "entries_last_5min": 210 }
+  ],
+  "concessions": [
+    { "stand_name": "Tapas Bar", "avg_wait_time_min": 27, "queue_length": 49 },
+    { "stand_name": "Vegan Kitchen", "avg_wait_time_min": 6, "queue_length": 9 },
+    { "stand_name": "Coffee Cart", "avg_wait_time_min": 14, "queue_length": 20 }
+  ],
+  "security": {
+    "alert_level": "Orange",
+    "active_incidents": 2,
+    "notes": "Congestion building at the North gate concourse"
+  }
+}
